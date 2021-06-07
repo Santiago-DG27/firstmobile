@@ -1,0 +1,73 @@
+body{
+    background:white;
+    
+}
+
+.aprincipal{color: white;}
+.aprincipal:hover{color: black}
+
+header{
+    background-color: #03BB85;
+    color: white;
+}
+nav{
+    background-color: #03BB85;
+    
+}
+nav .Mymenu{
+    text-align: right;
+}
+
+section{
+    color: black;
+}
+footer{
+    background-color: #03BB85;
+    display: inline-flex;
+}
+
+footer li{
+    display: inline-block;
+    padding: 1px;
+    list-style: none;
+}
+
+@media (max-width: 600px) {
+    #carrusel{
+        display: none;
+    }
+    #menu{
+        display: none;
+    }
+    #fotos{
+        display: none;
+    }
+   
+}
+
+.fotografia{
+    border: 8px solid #03BB85;}
+    
+.aprincipal
+{
+    color: white;
+
+}
+
+
+
+#Topics div{
+    justify-content: center;
+}
+
+
+
+#titulo2{
+
+    height: 10px;
+    text-align: center;
+}
+
+#inn{
+    visibility: hidden;
+}
